@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tester2/static/css/main.bf667734.chunk.css",
+    "main.js": "/tester2/static/js/main.a43971c9.chunk.js",
+    "main.js.map": "/tester2/static/js/main.a43971c9.chunk.js.map",
+    "runtime-main.js": "/tester2/static/js/runtime-main.00a3f8a5.js",
+    "runtime-main.js.map": "/tester2/static/js/runtime-main.00a3f8a5.js.map",
+    "static/js/2.ef5337c0.chunk.js": "/tester2/static/js/2.ef5337c0.chunk.js",
+    "static/js/2.ef5337c0.chunk.js.map": "/tester2/static/js/2.ef5337c0.chunk.js.map",
+    "index.html": "/tester2/index.html",
+    "static/css/main.bf667734.chunk.css.map": "/tester2/static/css/main.bf667734.chunk.css.map",
+    "static/js/2.ef5337c0.chunk.js.LICENSE.txt": "/tester2/static/js/2.ef5337c0.chunk.js.LICENSE.txt",
+    "static/media/aboutPage.6ec587e7.JPG": "/tester2/static/media/aboutPage.6ec587e7.JPG",
+    "static/media/contactPage.ba644559.JPG": "/tester2/static/media/contactPage.ba644559.JPG",
+    "static/media/eCommerceBackend.224068fe.PNG": "/tester2/static/media/eCommerceBackend.224068fe.PNG",
+    "static/media/germPod.c1877e1e.PNG": "/tester2/static/media/germPod.c1877e1e.PNG",
+    "static/media/mealPlanner.6ee17b99.PNG": "/tester2/static/media/mealPlanner.6ee17b99.PNG",
+    "static/media/passwordGenerator.f197d6ea.PNG": "/tester2/static/media/passwordGenerator.f197d6ea.PNG",
+    "static/media/readmeGenerator.4cf29050.PNG": "/tester2/static/media/readmeGenerator.4cf29050.PNG",
+    "static/media/workoutTracker.2e04f32c.PNG": "/tester2/static/media/workoutTracker.2e04f32c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a3f8a5.js",
+    "static/js/2.ef5337c0.chunk.js",
+    "static/css/main.bf667734.chunk.css",
+    "static/js/main.a43971c9.chunk.js"
+  ]
+}
